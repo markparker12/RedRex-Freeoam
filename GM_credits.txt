@@ -1,0 +1,9 @@
+markparker12 [New Featurs, Tune, RP, bug fixes and lot more]
+Gammix[GM Main Scripter]
+DaRk_RaiN [Job System]
+JaKe Elite[House system]
+
+---------------------------------------------------------
+Job Commands
+
+1. /jobs
